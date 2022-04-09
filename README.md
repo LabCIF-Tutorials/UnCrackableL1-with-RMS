@@ -1,9 +1,14 @@
 # Tutorial: Solving UnCrackable Android App Level 1 with RMS <!-- omit in toc -->
-Solving c with Runtime Mobile Security (RMS), based on this [video](https://youtu.be/P6rNPkM2DdY)
+Solving UnCrackable Android App Level 1 with Runtime Mobile Security (RMS), based on this [video](https://youtu.be/P6rNPkM2DdY)
+
+> ***WARNING***
+> 
+> This tutorial is under construction!
 
 | Version | 2022.04.08 |
 | :-:     | :--        |
 | ![by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) | This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -12,10 +17,6 @@ Solving c with Runtime Mobile Security (RMS), based on this [video](https://yout
 - [Solving UnCrackable Android App Level 1](#solving-uncrackable-android-app-level-1)
   - [Bypass the root detection protection](#bypass-the-root-detection-protection)
   - [Discover the secret value inside the app](#discover-the-secret-value-inside-the-app)
-
-> ***WARNING***
-> 
-> This tutorial is under construction!
 
 
 ## Requirements
